@@ -1,0 +1,44 @@
+[
+  {
+    "id_discurso": 1001,
+    "id_deputado": 1,
+    "data": "2024-03-10",
+    "texto": "Precisamos investir mais em economia e crescimento sustentável para o país."
+  },
+  {
+    "id_discurso": 1002,
+    "id_deputado": 2,
+    "data": "2024-03-11",
+    "texto": "A saúde pública deve ser prioridade absoluta do governo."
+  },
+  {
+    "id_discurso": 1003,
+    "id_deputado": 3,
+    "data": "2024-03-12",
+    "texto": "Educação é o pilar do desenvolvimento econômico."
+  },
+  {
+    "id_discurso": 1004,
+    "id_deputado": 4,
+    "data": "2024-03-12",
+    "texto": ""
+  },
+  {
+    "id_discurso": 1005,
+    "id_deputado": 6,
+    "data": "2024-03-15",
+    "texto": "Precisamos melhorar a saúde e educação."
+  },
+  {
+    "id_discurso": 1006,
+    "id_deputado": 7,
+    "data": "data_errada",
+    "texto": "A segurança pública é fundamental para o crescimento econômico."
+  },
+  {
+    "id_discurso": 1007,
+    "id_deputado": 8,
+    "data": "2024-03-21",
+    "texto": "Sustentabilidade e meio ambiente são prioridades estratégicas."
+  }
+]

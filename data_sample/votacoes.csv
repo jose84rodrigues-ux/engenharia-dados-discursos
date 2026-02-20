@@ -1,0 +1,10 @@
+id_votacao,id_deputado,projeto,tema,voto,data
+101,1,PL Economia 2024,Economia,Sim,2024-03-10
+102,2,PL Saúde Pública,Saúde,Não,2024-03-10
+103,3,PL Educação Nacional,Educação,Sim,2024-03-11
+104,4,PL Segurança Urbana,Segurança,Abstenção,2024-03-12
+105,5,PL Economia 2024,Economia,Sim,2024-03-10
+106,6,PL Saúde Pública,Saúde,Sim,2024-03-15
+107,7,PL Reforma Tributária,Economia,,2024-03-20
+108,8,PL Educação Nacional,Educação,Não,2024-03-21
+109,2,PL Meio Ambiente,Sustentabilidade,Sim,data_invalida
